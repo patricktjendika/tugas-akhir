@@ -57,7 +57,7 @@ Clean and nice staff,Receptionist&Billing,NULL,Positive,a year ago
 very bad service,NULL,NULL,Negative,8 months ago
 what does its phone line used for? Go pick up the f*kin phone. I've been calling multiple times with a busy tone. What a service compared to its price,"Receptionist&Billing, Cost","NULL, NULL","Negative, Negative",2 years ago
 "Unqualified nurse that accidentally trade my baby with someone else! Mine is 2 weeks old, the other baby is 1day old, that clearly shows how dumb and irresponsible their nurses are",Nurse,NULL,Negative,2 years ago
-"Just Want to call for register but the telephone is sucks, mitra keluarga already respond but i call for 1 hour but the telephone STILL busy. OMG.","Receptionist&Billing, Receptionist&Billing, Waiting Time","NULL, Mitra Keluarga Hospital, NULL","Negative, Positive, Negative",3 years ago
+"Just Want to call for register but the telephone is sucks, mitra keluarga already respond but i call for 1 hour but the telephone STILL busy. OMG.","Receptionist&Billing, Waiting Time","NULL, NULL","Negative, Negative",3 years ago
 Best hospital in town,NULL,NULL,Positive,a year ago
 Nice Hospital and very nice scenery.,NULL,NULL,Positive,2 years ago
 "National Hospital phisically new n low experience especially in management n the nurse. They follow singapore system for the it system but too bad they dont upgrade the employee. 
@@ -124,14 +124,14 @@ tempatnya bersih, staff yg ramah terutama bagian penerimaan telp. kalau engga sa
 Pelayanan operator telfonya sangat ramah dan mereka menjelaskan sangat jelasss sekali. Semua pertanyaan saya di jawab semua padahal saya tanya ini itu biar jelas semua kan ya dan ini sangat membantu dan memudahkan pasien untunk melanjutkan berobat di rs national hospital... 
 untuk semua biaya rumah sakit di surabaya sebenarnya sama aja, tapi klo untuk tempat yang nyaman parkiran yang banyak bangunan bersih, rapi, ruang tunggu nyaman dan ruangan di rs nasional hospital ber ac sangat dingin sekali dan terasa nyaman. Saya lebih memilih berobat di RS nasional hospital aja. Harga ga jauh beda sama rs lain di sby. Be smart","Cleanliness, Cost, Receptionist&Billing","National Hospital, National Hospital, National Hospital","Positive, Positive, Positive",6 months ago
 "
-Saya pernah berobat di sini beberapa kali. Pelayanan di IGD sangat baik, saya dilayani secara cepat saat mual muntah hebat karena keracunan makanan. Pelayanan di lantai 2 juga baik, terutama Farmasi. Karena saya sering menanyakan vaksin baik via WA maupun telpon, dan selalu direspon dengan baik. Bagi saya, harga dan pelayanan sebanding. Dibanding tempat lain dgn harga tidak jauh beda, saya lebih memilih ke NH walaupun rumah saya d sby timur. Saya juga sangat mengapresiasi pihak cleaning service, karena pernah saya menumpahkam minuman di lantai ruang tunggu lantai 2 dalam hitungan menit langsung dibersihkan. ","Cost, Waiting Time, Waiting Time","NH, NH, Emergency Department","Positive, Positive, Positive",6 months ago
+Saya pernah berobat di sini beberapa kali. Pelayanan di IGD sangat baik, saya dilayani secara cepat saat mual muntah hebat karena keracunan makanan. Pelayanan di lantai 2 juga baik, terutama Farmasi. Karena saya sering menanyakan vaksin baik via WA maupun telpon, dan selalu direspon dengan baik. Bagi saya, harga dan pelayanan sebanding. Dibanding tempat lain dgn harga tidak jauh beda, saya lebih memilih ke NH walaupun rumah saya d sby timur. Saya juga sangat mengapresiasi pihak cleaning service, karena pernah saya menumpahkam minuman di lantai ruang tunggu lantai 2 dalam hitungan menit langsung dibersihkan. ","Cost, Waiting Time","National Hospital, National Hospital","Positive, Positive",6 months ago
 "
 Nomor telfon tidak pernah bisa dihubungi!! Lebih baik telfon rumah sakit lain saja. Kejadian ini bukan sekali dua kali, tapi sejak lama saya sering sekali tidak bisa menelfon runah sakit.",Receptionist&Billing,NULL,Negative,5 months ago
 "
 Bagaimana prosedur untuk rapid test dan berapa biayanya ?","Test&Examination, Cost","NULL, NULL","Neutral, Neutral",3 weeks ago
 "
 Saya merasa sangat beruntung dan terbantu sekali bisa bertemu dengan dr. Aimee Nugroho Sp,Kj
-Pribadi dan perspektif dr. Aimee yang open minded dan welas asih memberikan pengalaman yang baik untuk saya bisa survive untuk berdamai dengan BPD saya. Staf di NH pun sangat ramah dalam memberikan pelayanan baik itu suster, apoteker, administrasi, satpam semuanya membuat saya nyaman.","Doctor, Nurse, Parking, Receptionist&Billing","NH, NH, NH, NH","Positive, Positive, Positive, Positive",6 months ago
+Pribadi dan perspektif dr. Aimee yang open minded dan welas asih memberikan pengalaman yang baik untuk saya bisa survive untuk berdamai dengan BPD saya. Staf di NH pun sangat ramah dalam memberikan pelayanan baik itu suster, apoteker, administrasi, satpam semuanya membuat saya nyaman.","Doctor, Nurse, Parking, Receptionist&Billing","National Hospital, National Hospital, National Hospital, National Hospital","Positive, Positive, Positive, Positive",6 months ago
 "
 Bedah syaraf nya sangat baik dengan teknologi tinggi ",Test&Examination,NULL,Positive,6 months ago
 "
@@ -354,7 +354,7 @@ Hasil operasi tumor otak sama perawatan memuaskan",NULL,NULL,Positive,4 years ag
 "
 Bagus sih tapi mahal",Cost,NULL,Negative,3 years ago
 "
-NH SBY",NULL,NH SBY,Neutral,2 years ago
+NH SBY",NULL,National Hospital,Neutral,2 years ago
 "
 best of rumah sakit from surabaya",NULL,NULL,Positive,3 years ago
 "
@@ -475,7 +475,7 @@ Kecewa untuk pelayanan Poli Gedung baru hari ini. Kasir asuransi hanya ada 1 & p
 
 Tambahlah operator di kasir asuransi. Kan jumlah pasien asuransinya juga banyak. Kalau cuma 1 operator saja plus pelayanannya lama seperti tadi, ya siap-siap aja makin banyak pasien yg kecewa.
 
-Padahal dulu sewaktu masih Poli lama, pelayanannya bisa cepat kok.","Receptionist&Billing, Waiting Time, Doctor, Waiting Time","New Poly Building, New Poly Building, NULL, Old Poly Building","Negative, Negative, Negative, Positive",4 months ago
+Padahal dulu sewaktu masih Poli lama, pelayanannya bisa cepat kok.","Receptionist&Billing, Waiting Time, Doctor","New Poly Building, NULL, NULL","Negative, Neutral, Negative",4 months ago
 "
 Pelayanan rumah sakit luar biasa, tiada duanya. Sangat ramah dan dan sangat memiliki jiwa untuk melayani.
 
@@ -483,7 +483,7 @@ Sayang papa paya salah diagnosa disini, sehingga harus menjalani operasi yang ti
 
 Papa saya di diagnosa Cordoma, tumor tulang jinak di tempat yang susah diambil. 1 februari 2019, papa dioperasi 8 jam kurleb. Sktr stgh 4, dr dr keluar dan bilang ""ternyata bukan cordoma""
 
-Kemudian kami diarahkan ke dr onkologi di RS Siloam, baru tau ternyata penyakit papa multiple myeloma, cancer darah. Setelah siloam,papa kami bawa ke Penang, dan disitu kami tau kalau operasi pasang besi di tulang papa itu, operasi yg tidak perlu dilakukan.","Test&Examination, Test&Examination","NULL, Siloam Hospital","Negative, Positive",4 months ago
+Kemudian kami diarahkan ke dr onkologi di RS Siloam, baru tau ternyata penyakit papa multiple myeloma, cancer darah. Setelah siloam,papa kami bawa ke Penang, dan disitu kami tau kalau operasi pasang besi di tulang papa itu, operasi yg tidak perlu dilakukan.",Test&Examination,NULL,Negative,4 months ago
 "
 Yang paling penting dirawat di rumah sakit adalah kita bisa sembuh tanpa di 'gorok' dengan harga super mahal. 
 Di rumah sakit ini banyak saudara, teman dll walaupun sakit kritis tapii selalu bisa keluar dengan selamat. Saya rasa karena banyak faktor: 
@@ -511,7 +511,7 @@ Kalo kesini paling enak pagi atau malam sekalian (bukan jam kunjung) parkir bany
 Overall, 
 Saya tetal memilih rumah sakit ini jika saya sakit, karena tujuann utamaba saya untuk sembuh. Percuma bangunan baru bagus, dokter pandai tapi kalo team susternya baru tak pengalaman bodoh2, tetap saja bisa membuat kondisi pasien memburuk. Jd di rumah sakit ini selain dokternya pandai2, team susternyaa sangatttt amatttt teliti dan cekatan. Suksesss trs RKZ!!!","Nurse, Doctor, Cost, Parking","Rkz Hospital, Rkz Hospital, Rkz Hospital, Rkz Hospital","Positive, Positive, Positive, Negative",7 months ago
 "
-Kesini jam 10 malam, saat itu saya menderita diare dadakan. Pelayanan nya cepat, dokter/suster nya kebetulan dapat yang cantik dan ramah sekali, jadi baper saya. Tapi waktu itu sempat antri karena pasien cukup banyak, dan obat juga akhirnya beli di apotik sendiri karena terlalu lama menunggu, tapi tidak apa yang penting beli obat nya dengan resep dokter.","Waiting Time, Doctor, Nurse, Waiting Time","NULL, NULL, NULL, NULL","Positive, Positive, Positive, Negative",a year ago
+Kesini jam 10 malam, saat itu saya menderita diare dadakan. Pelayanan nya cepat, dokter/suster nya kebetulan dapat yang cantik dan ramah sekali, jadi baper saya. Tapi waktu itu sempat antri karena pasien cukup banyak, dan obat juga akhirnya beli di apotik sendiri karena terlalu lama menunggu, tapi tidak apa yang penting beli obat nya dengan resep dokter.","Waiting Time, Doctor, Nurse","NULL, NULL, NULL","Positive, Positive, Positive",a year ago
 "
 Suka dengan Fasilitas medis dan pelayanannya.  Sy bersalin di RS ini,  dan pelayanannya Bagus,  Dokter dan perawatnya sabar dan telaten.","Doctor, Nurse","NULL, NULL","Positive, Positive",5 months ago
 "
@@ -547,7 +547,7 @@ Suasana rumah sakit nya adem, yang sakit jadi bisa lebih tenang, bersih dan tera
 "
 Bulan Juni 2019 operasi bedah tulang belakang disini, opname selama 9 hari. Perawat,  therapist dan Dokter semua ramah dan profesional. Pelayanan bagus, kamar selalu bersih. Dari pertama masuk sampai KRS semua prosedur cepat dan tidak ada keluhan. Puas dengan pelayanan Rumah Sakit ini.","Nurse, Doctor","NULL, NULL","Positive, Positive",7 months ago
 "
-Suka bgt dgn pelayanan rs rkz ini,apalagi sma suasana na.Tempat na bersih,sejuk,nyaman jdi pgen lama"" dsna hehee.. Semua perawat na ramah dan pelayanan na cepat biaya dokter na lmyan murah.Tpi klo tnya"" via telf agk lama angkat na trs lgi semua toilet na ga disediakan tisu dan petugas khusus yg buat bersihin toilet. Saran aja sih menurutku lebih baik setiap toilet disediakan tisu buat kebersihan.Suka risih klo ke toilet ga ada tisu na,trima kasih ","Cleanliness, Nurse, Waiting Time, Cost, Waiting Time, Cleanliness","Rkz Hospital, Rkz Hospital, Rkz Hospital, Rkz Hospital, Rkz Hospital, Rkz Hospital","Positive, Positive, Positive, Positive, Negative, Negative",2 years ago
+Suka bgt dgn pelayanan rs rkz ini,apalagi sma suasana na.Tempat na bersih,sejuk,nyaman jdi pgen lama"" dsna hehee.. Semua perawat na ramah dan pelayanan na cepat biaya dokter na lmyan murah.Tpi klo tnya"" via telf agk lama angkat na trs lgi semua toilet na ga disediakan tisu dan petugas khusus yg buat bersihin toilet. Saran aja sih menurutku lebih baik setiap toilet disediakan tisu buat kebersihan.Suka risih klo ke toilet ga ada tisu na,trima kasih ","Cleanliness, Nurse, Waiting Time, Cost, Receptionist&Billing","Rkz Hospital, Rkz Hospital, Rkz Hospital, Rkz Hospital, Rkz Hospital","Positive, Positive, Positive, Positive, Negative",2 years ago
 "
 Pelayanan IGD sangat parah. Pasien masuk sendiri dibiarkan tanpa dilayani. Proses perpindahan persiapan kamar 2 jam tidak selesai. Kalau bukan karena dr nya amit amit dah.","Receptionist&Billing, Waiting Time, Doctor","Emergency Department, Emergency Department, Emergency Department","Negative, Negative, Positive",6 months ago
 "
@@ -571,7 +571,7 @@ rumah sakit yg sangat bagus pelayannya,bersih, semua suster dan dokter sangat ce
 Pelayanan Bagus , Kualitas bagus , Suster + Dokternya ramah , Lingkunganya Bersih banget, Kualitas terjamin pokoknya , RKZ surabaya The Best ","Nurse, Doctor, Cleanliness","Rkz Hospital, Rkz Hospital, Rkz Hospital","Positive, Positive, Positive",2 years ago
 "
 Polikliniknya pindahbke gedung baru. Gedung St Yosef lokasi di sebelah poli lama",NULL,NULL,Neutral,6 months ago
-Klo antar tetangga kesini,NULL,NULL,Positif,2 days ago
+Klo antar tetangga kesini,NULL,NULL,Positive,2 days ago
 "
 Telpon nya kalau di telpon tidak bisa terus. Buat apa di kasih no telpon kalau di telpon tidak pernah diangkat",Receptionist&Billing,NULL,Negative,5 months ago
 "
@@ -951,7 +951,7 @@ pelayanan buruk
 1. sy diberi infus exp date april 2020
 2. pelayanan semua sangat lama
 3. pas kontrol kata perawatnya dokternya ada sebelum jam 12 ternyata pas sy kontrol dtng jam 8. dokternya sudah gaada
-sy korban kecelakaan tabrak lari","Waiting Time, Test&Examination, Waiting Time, Nurse","NULL, NULL, NULL, NULL","Negative, Negative, Negative, Negative",a month ago
+sy korban kecelakaan tabrak lari","Waiting Time, Nurse, Doctor","NULL, NULL, NULL","Negative, Neutral, Neutral",a month ago
 "
 Rumah Sakit Bhayangkara Surabaya merupakan rumah sakit yang dikelola oleh Polda Jatim. Rumah sakit yang berdiri sejak tahun 1988 ini berlokasi di Jl. Ahmad Yani 116, Surabaya. Sebagai salah satu rumah sakit besar di Surabaya, RS Bhayangkara mempunyai pelayanan yang baik, tenaga dokter & perawat yang ramah, dan tempat yang bersih.
 Semoga bisa terus melayani masyarakat Surabaya dengan baik.","Doctor, Nurse, Cleanliness","Bhayangkara Hospital Surabaya, Bhayangkara Hospital Surabaya, Bhayangkara Hospital Surabaya","Positive, Positive, Positive",4 months ago
@@ -1413,7 +1413,7 @@ Pelayanan di rawat inap sangat memuaskan
 Perawatnya ramah dan
 Saya sangat terbantu karena tidak ada penunggu tpi alhamdulillah semua perawat penuh perhatian dan sering cek ke ruangan
 Trimakasih Rs.Bhayangkara semoga lebih baik lagi...
-Saat kontrol dokter dan perawatnya care, dan memberi penjelasan dengan baik","Nurse, Test&Examination, Doctor, Nurse","Bhayangkara Hospital, Bhayangkara Hospital, Bhayangkara Hospital, Bhayangkara Hospital","Positive, Positive, Positive, Positive",6 months ago
+Saat kontrol dokter dan perawatnya care, dan memberi penjelasan dengan baik","Nurse, Test&Examination, Doctor","Bhayangkara Hospital, Bhayangkara Hospital, Bhayangkara Hospital","Positive, Positive, Positive",6 months ago
 "
 Pelayanan HD di RS.BHAYANGKARA H.S SAMSOERI MERTOJOSO..dr.nya sangat ramah dan baik sekali dan perawat2nya jg baik2 sekali dan ramah terhadap pasien2 HD.sy sebagai keluarga dari pasien HD sy sangat senang sekali sm dr dan perawatnya dlm pelayananya .","Doctor, Nurse","Bhayangkara HS Samsoeri Mertojoso Hospital, Bhayangkara HS Samsoeri Mertojoso Hospital","Positive, Positive",9 months ago
 "
@@ -1916,7 +1916,7 @@ Yaampun! Pertama, ini sudah malam ya disana ada 3 pasien. Kedua, kenapa harus me
 
 Setelah ngobrol sama orang farmasi, mereka minta maaf dan nyuruh saya sabar karna dokternya memang waktaknya ketus dan kasar sama pasiennya. Sampai2 org farmasi yg njelasin lebih detail ke saya perihal sakit adik sy. Bahkan orang farmasi ngomong, ""nanti langsung dibawa ke dokter / spesialis aja mbak agar lebih enak dan nyaman daripada ke dokter igd ini."" Ini aneh banget lah, pasien yg disuruh ""pengerten"" ama dokternya. 
 
-Seumur2 belum pernah ketemu dokter yg ketus banget kayak gini. Bisa kabur pasien2nya, padahal rumah sakitnya udah oke. ","Doctor, Test&Examination ","Emergency Department, Emergency Department","Negative, Negative",2 years ago
+Seumur2 belum pernah ketemu dokter yg ketus banget kayak gini. Bisa kabur pasien2nya, padahal rumah sakitnya udah oke. ","Doctor, Test&Examination","Emergency Department, Emergency Department","Negative, Negative",2 years ago
 "
 Pelayanan nya kurng baik .. 
 Di saat btuh playanan cpat tanggap mbak2 ygbrtugas di IGD berskp acuh dn sok sbuk sndiri2.",Waiting Time,Emergency Department,Negative,a year ago
@@ -2189,14 +2189,14 @@ Poin2 nya yg bagus disana :
 
 Tapi, baru kemarin saya ke depo farmasi bpjs. Petugas disana semua pakai baju putih. Sepertinya masih baru semua. Sesama rekan banyak ngobrol,banyak saling tanya. Pas buka puasa,semuanya ikut buka. Misal jika ada 8 orang,Seharusnya 4orang buka puasa,sisanya tetap melayani pasien. Banyak keluar masuk gudang.  
 Dan yg paling nyebelin. Obat yg diresepkan dokter tidak ada ditempat. Namun petugas tidak memberikan informasi kalo obat tidak ada,dan harus diambil di outlet luar. Saya sampai tanya 3x,masih lama ta Mbak? Jawabnya cuma bentar ya mbak ,bentar ya mbak.. Yg ketiga baru diinfokan. Padahal saya sudah menunggu sampai 2jam lebih. Tolong lebih dibrief lagi untuk petugas,bagaimana standart service yg bagus,gimana komunikasi nya,gimana sikap di front liner.(didepan masih minum susu uht). Karena sangat disayang kan,untuk rumah sakit sekelas ini,harus ada kendala yg menurut saya,sangat sepele namun krusial sekali jika tidak segera dibenahi. Untuk pelayanan servis paripurna,menurut saya adalah suster yg ada dirawat inap,khususnya new safir.  
-Terima kasih.. Salam sehat selalu..","Cost, Doctor, Nurse, Food, Cleanliness, Waiting Time, Receptionist&Billing, Waiting Time","PHC Hospital, PHC Hospital, PHC Hospital, PHC Hospital, PHC Hospital, PHC Hospital, PHC Hospital, PHC Hospital","Positive, Positive, Positive, Positive, Positive, Positive, Positive, Negative",a year ago
+Terima kasih.. Salam sehat selalu..","Cost, Doctor, Nurse, Food, Cleanliness, Waiting Time, Receptionist&Billing","PHC Hospital, PHC Hospital, PHC Hospital, PHC Hospital, PHC Hospital, PHC Hospital, PHC Hospital","Positive, Positive, Positive, Positive, Positive, Neutral, Positive",a year ago
 "
 Sarana yang tersedia sangat representatif, dokter perawat yang ramah, yang perlu ditingkatkan adalah memberikan kuota untuk pendaftar rawat jalan yang langsung mendaftar ditempat jadi tidak didominasi oleh pendaftar online.","Doctor, Nurse, Receptionist&Billing","NULL, NULL, NULL","Positive, Positive, Negative",a year ago
 "
 Rumah sakit yang bagus bangget, dngan pelayanan yang secara keseluruhan sdh tertata rapi dan baik. 
 Khusus nya buat mahasiswa yg ingin magang di RS PHC ini bagus banget, karena secara nyata akan di perlihatkan lngsung bagaimana aslinya dunia kerja ",NULL,PHC Hospital,Positive,5 months ago
 "
-Lama di apotik.. coba kaji banding di RS lain yg pelayanan farmasinya cepat dan tepat.. sy sarankan ke RSUP Sanglah Krn di sana pasien bejibun dari berbagai macam poli dan ruang rawat inap tp pelayanan farmasi cepat.. dlm 10-15 menit sdh dpt obat..","Waiting Time, Waiting Time","NULL, Sanglah Hospital","Negative, Positive",5 months ago
+Lama di apotik.. coba kaji banding di RS lain yg pelayanan farmasinya cepat dan tepat.. sy sarankan ke RSUP Sanglah Krn di sana pasien bejibun dari berbagai macam poli dan ruang rawat inap tp pelayanan farmasi cepat.. dlm 10-15 menit sdh dpt obat..",Waiting Time,NULL,Negative,5 months ago
 "
 Pelayanan yang lain sudah lumayan bagus tp sayang pelayanan farmasi untuk pasien tunai lamban, petugas kayak kurang fokus masih sering bertanya tanya ke sesama petugas gak tahu masalah di sistem atau personalnya padahal kalau saya lihat sudah ada pembagian, semoga kedepan lebih baik  sayang dokter dokternya sudah bagus tp layanan lain lamban","Waiting Time, Doctor","NULL, NULL","Negative, Positive",5 months ago
 "
@@ -2636,7 +2636,7 @@ Atau RS SOPnya memang payah seperti ulasan2 lainnya???
 Pertimbangkan baik2 jika anda ingin berobat kesini.","Waiting Time, Doctor","NULL, NULL","Negative, Negative",7 months ago
 "
 Perlu banyak perbaikan dapatkan nomor dlm system' antrian daftar awal , sehgg pasien tidak perlu antri dua jam seblm dokter praktek.
-Untuk panggilan periksa dipoli , disiplin dasar no antrian harus dilaksanakan ( adanya pasien dipanggil padahal no antrian msh dibawah yg saat itu harus dipanggil)","Receptionist&Billing, Waiting Time, ","NULL, NULL","Negative, Negative",6 months ago
+Untuk panggilan periksa dipoli , disiplin dasar no antrian harus dilaksanakan ( adanya pasien dipanggil padahal no antrian msh dibawah yg saat itu harus dipanggil)","Receptionist&Billing, Waiting Time","NULL, NULL","Negative, Negative",6 months ago
 "
 Fasilitas sebagai faskes lanjutan BPJS nya termasuk oke,walau anterinya yg mungkin harus dibiasakan. Pelayanan standard. Instalasi farmasinya yg agak lambat. Ada fasilitas laboratorium dan juga halodoc yg berbayar, tp khusus pengiriman obat masih gratis. Kantin nya tidak menawarkan banyak pilihan. Ada wifi tapi hanya untuk 2 jam saja. Lumayan bersih. Tempat parkir pada hari2 dan jam2 tertentu agak langka,tp secara umum cukup luas. Rumah sakit ini tergolong rumah sakit baru yg berada di kelas B.","Waiting Time, Food, Cleanliness, Parking","NULL, NULL, NULL, NULL","Negative, Negative, Positive, Positive",6 months ago
 "
@@ -2792,7 +2792,7 @@ Waktu opname disini pasien cuma dikasih air hangat untuk mandi.. tapi gk ada kai
 
 Lucu juga kalau ditanya sesuatu selalu nyalahin sistemny.. Tolong dibenerin lagi sistemny.. yg ngantri juga ada orng yg sakit, kasihan orng sakit disuruh ngantri lama""","Receptionist&Billing, Doctor, Waiting Time","NULL, NULL, NULL","Negative, Negative, Negative",11 months ago
 "
-Untuk emergency dan rawat inap lumayan, bisa pakai bpjs langsung, kamar inap bersih. Tapi untuk kontrol pakai bpjs antri parah, pelayanan suster sangat tidak memuaskan, tidak ada nomor antrian, terkadang bisa maju atau mundur seenaknya. Pengalaman daftar umum bayar sendiri biar tidak antri, dapat antrian nomor 1 tapi tidak dipanggil2, waktu ditanyakan ternyata data saya dianggap antri bpjs. Konsul dokter tergesa2 sekali, belum selesai ngomong dokter sudah bilang pasien selanjutnya.","Cleanliness, Test&Examination, Waiting Time, Nurse, Receptionist&Billing, Doctor","NULL, NULL, NULL, NULL, NULL, NULL","Positive, Negative, Negative,Negative, Negative, Negative",10 months ago
+Untuk emergency dan rawat inap lumayan, bisa pakai bpjs langsung, kamar inap bersih. Tapi untuk kontrol pakai bpjs antri parah, pelayanan suster sangat tidak memuaskan, tidak ada nomor antrian, terkadang bisa maju atau mundur seenaknya. Pengalaman daftar umum bayar sendiri biar tidak antri, dapat antrian nomor 1 tapi tidak dipanggil2, waktu ditanyakan ternyata data saya dianggap antri bpjs. Konsul dokter tergesa2 sekali, belum selesai ngomong dokter sudah bilang pasien selanjutnya.","Cleanliness, Test&Examination, Waiting Time, Nurse, Receptionist&Billing, Doctor","NULL, NULL, NULL, NULL, NULL, NULL","Positive, Negative, Negative, Negative, Negative, Negative",10 months ago
 "
 Telepon nggak pernah berhasil masuk",Receptionist&Billing,NULL,Negative,a month ago
 "
@@ -3153,7 +3153,7 @@ Kualitas pelayanan yang sangat buruk sekali..kapok dan tidak akan pernah rekomen
 "
 Tgl 11/05/2017 sekitar jam 9 mlm dtg ke igd rs royal sy kira bagus ternyata sgt2 mengecewakan disambut dg admin yg jutek&tdk ramah sm skali,didpn pasien teriak memanggil tmnnya krj dirs atau dihutan?stlh saya ada pasien lg sdh duduk didpn admin malah ditinggal ngobrol mau kerja atau ngerumpi!stengah jam nunggu tdk ada tindakan sm sekali.meskipun pk asuransi atau sakitnya tdk  parah tp yg namanya igd hrsnya ada tindakan cpt apalagi rumah sakitnya sepi tdk ada pemberitahuan sm sekali apa nunggu pasiennya mati dl baru dilayani.kalau ada penjelasan dr petugas rs knp lama kok lama pasirn pst mengerti.akhirnya sy batalkan saya minta kartu saya dg santai lsg dikasih.bnr2 kecewa,pertama&sgt2 kapok dtg ke rs itu lg.mgkn hrs disekolahkan lg biar bs menghargai orang&melayani orang dg baik.","Receptionist&Billing, Waiting Time","NULL, NULL","Negative, Negative",3 years ago
 "
-Pasien BPJS dapat rujukan ke sini. Termasuk faskes tingkat 2, tingkatannya di atas klinik di bawah Rumah sakit besar. Bersih, tempat duduk memadai. Kebersihan toiletnya perlu diperhatikan lagi.","Cleanliness, Cleanliness","NULL, Toilet","Positive, Negative",2 years ago
+Pasien BPJS dapat rujukan ke sini. Termasuk faskes tingkat 2, tingkatannya di atas klinik di bawah Rumah sakit besar. Bersih, tempat duduk memadai. Kebersihan toiletnya perlu diperhatikan lagi.",Cleanliness,NULL,Neutral,2 years ago
 "
 Banyak pasien bpjs dapat rujukan kesini. Rumah sakit ini termasuk faskes tingkat 2, tingkatannya di atas klinik di bawah Rumah sakit besar. Tempatnya bersih,tempat duduk memadai. Toiletnya agak kurang diperhatikan. Di lantai basement ada alfamart dan pojok makanan,Juga ada mushola","Cleanliness, Food","NULL, NULL","Positive, Positive",2 years ago
 "
@@ -4654,7 +4654,7 @@ dokter memberikan info dengan sangat jelas, perawatnya care, homie and friendly"
 "
 pelayanan yg sangat baek...",NULL,NULL,Positive,2 years ago
 "
-Lumayan penanganannya agak lambat,nggak seperti di PHC Perak ","Waiting Time, Waiting Time","NULL, PHC Hospital Perak","Negative, Positive",4 years ago
+Lumayan penanganannya agak lambat,nggak seperti di PHC Perak ",Waiting Time,PHC Hospital Perak,Positive,4 years ago
 "
 lokasi strategis dan pelayanan seluruh petugas bagus",NULL,NULL,Positive,3 years ago
 "
@@ -4673,7 +4673,7 @@ Fasilitas lengkap, dengan dokter yang kompeten","Test&Examination, Doctor","NULL
 
  So far I've only had one doctor whose diagnose is not so good in my opinion (I've been a regular since a kid so.. yeah)","Cleanliness, Cost, Doctor, Waiting Time, Test&Examination","NULL, NULL, NULL, NULL, NULL","Positive, Negative, Neutral, Neutral, Neutral",11 months ago
 Hospital with good service and facilities. Below is the hospital canteen's menu (with very limited choice compare to the previous menu that served more delicious foods in the past).,Food,NULL,Negative,a year ago
-"I went here to do MCU for UK Visa. Friendly and helpful staff, easy online appointment, fast process. Finished the tests at 9, received the result at 12. Second floor. Here are the pictures in MCU room:","Test&Examination, Receptionist&Billing, Waiting Time ","NULL, NULL, NULL","Neutral,  Positive, Positive",2 years ago
+"I went here to do MCU for UK Visa. Friendly and helpful staff, easy online appointment, fast process. Finished the tests at 9, received the result at 12. Second floor. Here are the pictures in MCU room:","Test&Examination, Receptionist&Billing, Waiting Time","NULL, NULL, NULL","Neutral, Positive, Positive",2 years ago
 "-cosiness(comfort) =(5/5) facility are good, they got hand sanitizer in many place, full ac,free wifi, enough sit for waiting, nice staff, nurse, and doctor
 
 -cleanliness = (5/5) i believe its highly hygienic, it had hand sanitizer anywhere, and anywhere u go it seems clean, dan kalo sedikit teliti sudut sudut ruangan mereka gak bersudut(dibuat curve) untuk menghindari bakteri dll yg mungkin nyempil disana
@@ -4896,7 +4896,7 @@ Fasilitas bagus, lobi cukup besar dan nyaman.
 ",NULL,NULL,Positive,2 years ago
 "
 Antri UGD lama, bayar lama, ambil obat lama. Pasien panas 39 masih disuru tunggu sedangkan kamar UGD kosong.
-Tidak pakai BPJS aja pelayanan lelet.","Waiting Time, Receptionist&Billing, Waiting Time","Emergency Unit, Emergency Unit, Pharmacy","Negative, Negative, Negative",8 months ago
+Tidak pakai BPJS aja pelayanan lelet.","Waiting Time, Receptionist&Billing","Emergency Unit, Emergency Unit","Negative, Negative",8 months ago
 "
 Fasilitas ruang tunggunya nyaman, ada fasilitas WiFi-nya juga.. Namun untuk antri perawatan cenderung lama..
 Kamar mandi bersih, kantin lumayan lengkap","Waiting Time, Cleanliness, Food","NULL, NULL, NULL","Negative, Positive, Positive",2 years ago
@@ -5038,7 +5038,7 @@ Dokter & perawat bagus pelayanannya dgn kedisplinan yg tinggi jadi ukuran sbg RS
 
 Peralatan medis lumayan bagus, baru dan lengkap utk mendukung kinerja.
 
-Tempat parkir yg layak patut dipertimbangkan yg muat R2 dan R4. Tukang parkir agar dpt jaga sikap & ucapan, banyak keluhan ttg perilaku tukang parkir","Cost, Doctor, Nurse, Test&Examination, Parking","Pharmacy, NULL, NULL, NULL, NULL","Postive, Positive, Positive, Positive, Negative",2 years ago
+Tempat parkir yg layak patut dipertimbangkan yg muat R2 dan R4. Tukang parkir agar dpt jaga sikap & ucapan, banyak keluhan ttg perilaku tukang parkir","Cost, Doctor, Nurse, Test&Examination, Parking","Pharmacy, NULL, NULL, NULL, NULL","Positive, Positive, Positive, Positive, Negative",2 years ago
 "
 rumah sakit nya nyaman untuk dikunjungi karena banyak poli yang praktek disini",NULL,NULL,Positive,a year ago
 "
@@ -5130,7 +5130,7 @@ Pelayanan UGD nya parah",NULL,Emergency Unit,Negative,a year ago
 "
 Pelayanan sangat profesional",NULL,NULL,Positive,10 months ago
 "
-bezoek doang, tapi sepintas lebih baik daripada yg RS di Gubeng. ga tau harganya.","NULL, Cost","NULL, NULL","Positive, Neutral",4 years ago
+bezoek doang, tapi sepintas lebih baik daripada yg RS di Gubeng. ga tau harganya.",Cost,NULL,Neutral,4 years ago
 "
 Peralatan medis terkalibrasi n maintenance berkala..d jamin pemeriksaan hasil akurat..",Test&Examination,NULL,Positive,4 years ago
 "
@@ -5372,13 +5372,13 @@ masker langka beli sana sini kosong
 beli masker di RS tidak dikasih 
 hmm seharusnya pihak RS juga menjaga kesehatan para keluarga yg menunggu si pasien..",NULL,NULL,Negative,4 months ago
 "
-dokter spesialis ANAK sangat JELEK pelayananya. bunda, jangan kesini ya. sakit hati doang nantinya. memang biaya DOKTER SPESIALIS hanya 20.000,. mungkin rumah sakiit menyesuaikan antara biaya menyesuaikan KUALITAS DOKTER. dan anak saya juga tidak sembuh berobat disini. akhirnya ke RS DARMO yang 10x lebih mahal (200.000) namun pelayanannya sangat memuaskan . oh ya, perawat yang di depan itu juga suka teriak2 kalau manggil kaya orang kelaparan. gak sopan sama sekali.","Doctor, Cost, Cost, Nurse","NULL, NULL, Darmo Hospital, NULL","Negative, Positive, Neutral, Negative",5 months ago
+dokter spesialis ANAK sangat JELEK pelayananya. bunda, jangan kesini ya. sakit hati doang nantinya. memang biaya DOKTER SPESIALIS hanya 20.000,. mungkin rumah sakiit menyesuaikan antara biaya menyesuaikan KUALITAS DOKTER. dan anak saya juga tidak sembuh berobat disini. akhirnya ke RS DARMO yang 10x lebih mahal (200.000) namun pelayanannya sangat memuaskan . oh ya, perawat yang di depan itu juga suka teriak2 kalau manggil kaya orang kelaparan. gak sopan sama sekali.","Doctor, Cost, Nurse","NULL, NULL, NULL","Negative, Positive, Negative",5 months ago
 "
 saya pernah berobat ke IGD BDH, pelayanannya TOP banget, bagus dan cepat. petugasnya baik dokter dan perawat ramah juga cekatan, mereka bekerja sesuai prosedur semua. saya puas berobat di BDH. 
 
 saat saya berobat sih, keluhan saya hanya demam batuk pilek dan muntah sekali, saat itu memang pasien di IGD sangat ramai (ya namanya juga IGD pasti ramailah, saya sampe hampir nunggu 1 jam lebih), tapi saya tetap diperiksa ditensi disuhu dan ditanya keluhannya terus saya dijelasin kalo pasien gawat yang didahulukan. jadi saya tau kalo saya bakal dipanggil sesuai kegawatan. 
 
-terima kasih BDH","Waiting Time, Doctor, Nurse, Waiting Time","BDH Hospital, BDH Hospital, BDH Hospital, BDH Hospital","Positive, Positive, Positive, Positive",5 months ago
+terima kasih BDH","Waiting Time, Doctor, Nurse","BDH Hospital, BDH Hospital, BDH Hospital","Positive, Positive, Positive",5 months ago
 "
 Kalo pelayanan rawat inapnya c lumayan bagus..tapi saat mau pulang dan serahin berkas di admin yang tanpa nomer antrian akhirnya nama anak saya tidak dipanggil-panggil padahal saya datang duluan,nyerahin berkas duluan eh malah di panggil duluan yang baru numpuk..setelah saya protes baru dipanggil..alasannya ganti petugas shift dan tidak ada nomer antrian..saya bilang kenapa tidak di beri nomer antrian..malah suruh nulis di kotak saran..","Waiting Time, Receptionist&Billing","NULL, NULL","Negative, Negative",6 months ago
 "
@@ -5432,7 +5432,7 @@ Pelayanannya sudah ditingkatkan jadi lebih cepat, perawat dan dokter juga inform
 
 Rumah sakitnya sering mendapat rujukan pasien dari rumah sakit lain maupun puskesmas. Harga obatnya juga terjangkau. Pelayanan terhadap pasien umum dan bpjs juga dipukul sama rata (kecuali pasien vip tentunya). 
 
-IGDnya gak pernah sepi pasien. Untuk instalasi rawat jalannya terkadang masih lambat penanganannya. Lobbynya luas, nyaman dan disediakan tempat bermain untuk anak2. Terdapat masjid di sekitar areal parkir.","Waiting Time, Nurse, Doctor, Cost, Waiting Time","NULL, NULL, NULL, Pharmacy, Outpatient Installation","Positive, Positive, Positive, Positive, Negative",2 years ago
+IGDnya gak pernah sepi pasien. Untuk instalasi rawat jalannya terkadang masih lambat penanganannya. Lobbynya luas, nyaman dan disediakan tempat bermain untuk anak2. Terdapat masjid di sekitar areal parkir.","Waiting Time, Nurse, Doctor, Cost","NULL, NULL, NULL, Pharmacy","Neutral, Positive, Positive, Positive",2 years ago
 "
 Fasilitas lengkap dengan dokter yang ramah dan cekatan. Letaknya di Surabaya Barat dekat dengan perumahan Citra Land. Lahan parkir luas dan aman","Test&Examination, Doctor, Waiting Time, Parking, Safety","NULL, NULL, NULL, NULL, NULL","Positive, Positive, Positive, Positive, Positive",2 years ago
 "
@@ -5803,7 +5803,7 @@ Good Service,NULL,NULL,Positive,3 years ago
 Good ,NULL,NULL,Positive,4 years ago
 Nice,NULL,NULL,Positive,5 years ago
 Great not bad work more detailed,NULL,NULL,Positive,6 years ago
-"Tempatnya terlalu ramai, antrean cenderung panjang. Proses cenderung lama. Pasien rawat inap 2 hari dan menunggu dokter seminar di luar negeri. Dokter pengganti/ jaga kurang memahami sehingga tindakan tdk maksimal","Waiting Time, Doctor, Test&Examination","NULL, NULL, NULL","Negative,Negative, Negative",5 days ago
+"Tempatnya terlalu ramai, antrean cenderung panjang. Proses cenderung lama. Pasien rawat inap 2 hari dan menunggu dokter seminar di luar negeri. Dokter pengganti/ jaga kurang memahami sehingga tindakan tdk maksimal","Waiting Time, Doctor, Test&Examination","NULL, NULL, NULL","Negative, Negative, Negative",5 days ago
 "
 Walaupun rumah sakit adalah tempat yang rentan infeksi, tetapi apabila pengobatan membutuhkan tindakan khusus, apa mau dikata harus kesini.
  Semoga pandemi covid 19 segera berakhir.",NULL,NULL,Positive,a month ago
@@ -5886,7 +5886,7 @@ Oh ya, saat ini sedang dilakukan pembangunan gedung parkir. Jadi, mohon maaf jik
 Tempat bersih,lumayan nyaman, satpam dan perawat&suster nya jg ramah2 cuma :
 1. Banyak nyamuk di ruang tunggu,mohon d tanggulangi krn kami yang nunggu kan gbisa masuk k dalam jd harus tdr d ruang tunggu
 2. Ada Perawat d IGD, masa Istri saya Lahiran Malem minggu d salahin, ""Kenapa Lahirannya malem minggu si Bu, saya kan caaape"" bari sewot, laaah emg ada tau kapan lahiran kapan..lagian itu kan resiko pekerjaan capek mah, tolong d training lg.
-3. Tolong antar kasir lebih d tingkatkan komunikasi nya, jd kami tidak bulak balik turun lift harus motokopi","Cleanliness, Nurse, Nurse, Receptionist&Billing","NULL, NULL, Emergency Department, NULL","Positive, Positive, Negative, Negative",7 months ago
+3. Tolong antar kasir lebih d tingkatkan komunikasi nya, jd kami tidak bulak balik turun lift harus motokopi","Cleanliness, Nurse, Receptionist&Billing","NULL, NULL, NULL","Positive, Neutral, Negative",7 months ago
 "
 Ribet. Banyak buang-buang waktu. Ke klinik gigi (bedah mulut) daftar harus dari pagi (ada kuotanya 20 orang) , tapi dokter baru ada jam 3 sore. Kalau dirujuk lagi harus datang lagi besoknya karena loket bpjs buka cuma sampai jam 12. Mana susternya bedah mulutnya jutek muka gk ramah lagi.","Waiting Time, Nurse","Dental Clinic, Dental Clinic","Negative, Negative",5 months ago
 "
@@ -6680,7 +6680,7 @@ Sarannya:
 - Pasien jangan terlalu lama di IGD, jika memang ruangan penuh sebaiknya pasien yg sudah kritis dan harus masuk ICU dipindah saja ke RS lain yg terdekat seperti RSUP atau RS marinir
 - Instalasi farmasi ditambah lagi dan kalau bisa dipisah antara rawat jalan dengan rawat inap
 - Proses untuk masuk ruang rawat inap jangan terlalu lama, jika memang ada kamar yg kosong langsung dimasukkan saja sehingga pasien tidak menumpuk di IGD
-- Dibikinkan masjid agar shalat jum'at tidak kagi di basement","Test&Examination, Doctor, Waiting Time, Food, Cleanliness, Waiting Time, Waiting Time","NULL, NULL, Pharmacy, NULL, Bathroom, NULL, Radiology Section","Positive, Positive, Negative, Negative, Negative, Negative, Negative",8 months ago
+- Dibikinkan masjid agar shalat jum'at tidak kagi di basement","Test&Examination, Doctor, Waiting Time, Food, Cleanliness","NULL, NULL, Pharmacy, NULL, Bathroom","Positive, Positive, Negative, Negative, Negative",8 months ago
 "
 Sayang Dokter umum yang jaga 04 02 2020 di IGD RSUD Pasar Minggu ini tidak mengerti arti Instalasi Gawat Darurat, tidak bisa memanage waktu dengan baik ketika pasien menumpuk di ruang tunggu seharusnya tidak berbicara yang tidak penting dengan keluarga pasien sehingga pasien yang sedang gawat darurat tidak menunggu berjam jam lamanya dan menahan sakit lebih lama....tolong SOP nya di jaga dengan baik.","Doctor, Waiting Time","Pasar Minggu Hospital, Pasar Minggu Hospital","Negative, Negative",5 months ago
 "
@@ -6821,7 +6821,7 @@ Baru dipanggil, periksa bntr, cek darah, msuk ruang transit. nunggu hasil LAB 2 
 
 Oh gitu, Okelah. Cukup tau pelayanan BPJS RSUD Pasar Minggu.
 
-Nb: kalau blm susah nafasnya, pasti masuk antrian dokter umum. Klau ga kuat bgt, mending jangan deh. Malah kesiksa sama nunggunya.","Test&Examination, Nurse,Waiting Time","Pasar Minggu Hospital, Pasar Minggu Hospital, Pasar Minggu Hospital","Negative, Negative, Negative",11 months ago
+Nb: kalau blm susah nafasnya, pasti masuk antrian dokter umum. Klau ga kuat bgt, mending jangan deh. Malah kesiksa sama nunggunya.","Test&Examination, Nurse, Waiting Time","Pasar Minggu Hospital, Pasar Minggu Hospital, Pasar Minggu Hospital","Negative, Negative, Negative",11 months ago
 "
 Peralatan bagus, karyawan ramah",NULL,NULL,Positive,2 weeks ago
 "
@@ -6854,7 +6854,7 @@ Masuk diruang rawat inap harus di temukan lagi sama perawat lelaki yg arogan dan
 ""itu bukan antibiotik tapi vitamin, kata perawat lelaki !!!  sudah dijelaskan berkali-kali 
 ""saya dikasih antibiotik oleh suster bentuknya tablet putih besar bukan vitamin seperti biasa kuning kecil dan efeknya masih gatal-gatal"" dengan nyolot dia memotong pembicaraan terus dan bilang kalau ga mungkin di kasih antibiotik. Aduh rasanya kalo badan sehat mau saya lempar bangku yg ada di samping kemukanya, kalo ga tau apa salahnya tanya ke perawat sebelumnya jadikan tau apa saja yg di kasih. Begitu ada suster masuk baru dia tanya dan dibenarkan oleh suster tapi saya heran ga punya malu perawat lelaki itu tanpa meminta maaf.
 Disitu sudah merasa cukup lelah, setelah selesai berobat di pusingkan dengan sistem dan prosedur yg panjang dan berkelok-kelok sampai dengan pengambilan obat di farmasi yg memakan waktu 4jam lebih (terhitung keluar dari ruangan periksa dokter).
-Tolonglah recruite pegawai yg bisa melayani dengan baik, walaupun kita pakai BPJS bukan berarti kita ini pasien yg dikesampingkan kan ?","Nurse, Waiting Time, Waiting Time","NULL, NULL, Pharmacy","Negative, Negative, Negative",a year ago
+Tolonglah recruite pegawai yg bisa melayani dengan baik, walaupun kita pakai BPJS bukan berarti kita ini pasien yg dikesampingkan kan ?","Nurse, Waiting Time","NULL, NULL","Negative, Negative",a year ago
 "
 Sudah cukup baik dan bagus, mungkin harus di perbaiki saja beberapa fasilitas yang sudah ada guna memperbaiki pelayanan agar pelanggan atau customer atau pasien RSUD Pasar Minggu khususnya untuk Poli Gigi mengetahui antrian mereka kapan akan di panggil untuk masuk ke ruang praktek. Terima Kasih ",NULL,Pasar Minggu Hospital,Positive,10 months ago
 "
@@ -7017,7 +7017,7 @@ Dokter visit rawat inap tidak memperkenalkan diri sehingga tidak tau yang datang
 
 Lebih parahnya lagi saat kontrol membutuhkan waktu cukup lama untuk dipanggil ke ruangan poli. Bisa 3-4 jam. Saat kunjungan ke poli PD, antrian tidak berdasarkan nomor urut, ada nomor urut 10-20 nomor diatas kita yang lebih dahulu dilayani, sedangkan kita baru dilayani sejam kemudian. Semakin diperparah lagi menunggu obat di layanan farmasi bisa memakan waktu hingga 3 jam lebih.
 
-Dokter di poli saat kontrol juga kurang informatif ataupun ramah dalam menangani pasien. Hanya ditanya-tanya oleh dokter dan tidak ada penjelasan. Jadi harus banyak2 bertanya, bahkan nama penyakit yang diderita harus ditanyakan karna tidak ada penjelasan dari dokter.","Doctor, Test&Examination, Waiting Time, Waiting Time","NULL, NULL, NULL, Pharmacy","Negative, Negative, Negative, Negative",a year ago
+Dokter di poli saat kontrol juga kurang informatif ataupun ramah dalam menangani pasien. Hanya ditanya-tanya oleh dokter dan tidak ada penjelasan. Jadi harus banyak2 bertanya, bahkan nama penyakit yang diderita harus ditanyakan karna tidak ada penjelasan dari dokter.","Doctor, Test&Examination, Waiting Time","NULL, NULL, NULL","Negative, Negative, Negative",a year ago
 "
 Saya pagi ini menelefon ke RSUD Pasar Minggu yang SUSAH BANGET ditelefon, walaupun akhirnya diangkat setelah berkali-kali mencoba.
 
@@ -7069,7 +7069,7 @@ Tolong oknum bidan di VK yang suka g sabar nungguin placenta pasien lahir sendir
 pelayanan yang diberikan oleh RSUD pasar minggu sejauh ini sangat memuaskan....staffnya ramah2...waktu saya mengantarkan ibu saya ke IGD ...langsung dilayani dan ditangani...rekam jantung termasuk SOP nya ...keren lah ...baru ini saya ngalamin pelayanan yang bagus dr RSUD.
 untuk antri pengambilan obat memang lama mungkin karena banyak yang berobat jadi lebih baik ambil obatnya sore atau malam saja.",Waiting Time,Pasar Minggu Hospital,Neutral,a year ago
 "
-IGD Pelayanan cepat tp bagian farmasi kerjany lelet..tunggu obat sampai 2 1/2 jam blm d panggil jg..ibarat org sekarat bisa mati dluan cma nunggu obatny doank lama..pelayanan informasi dr bagian farmasi jg ga ramah..","Waiting Time, Waiting Time","Emergency Department, Pharmacy","Positive, Negative",a year ago
+IGD Pelayanan cepat tp bagian farmasi kerjany lelet..tunggu obat sampai 2 1/2 jam blm d panggil jg..ibarat org sekarat bisa mati dluan cma nunggu obatny doank lama..pelayanan informasi dr bagian farmasi jg ga ramah..",Waiting Time,Emergency Department,Neutral,a year ago
 "
 Ruangan bagus krn RS nya tergolong baru. Antrian bpjs br diubah jd semua dibawah, sedia 6 mesin tp yg dipake yg ada petugasnya doang, ga efektif. Kl bs pasien jg bs pake sndr biar cepet, yg ga bs br dibantuin.
 
@@ -7183,7 +7183,7 @@ Layani dengan Prima",NULL,NULL,Positive,9 months ago
 "
 Bisaa cekup kehamilan gak yaa??",Test&Examination,NULL,Neutral,4 months ago
 "
-Saya sangat kecewa, karna anak ku udah panas tinggi di igd,, tapi bukan y ditangani malah suruh sabar mulu,,  giliran udah diperiksa dapet dokter y asal banget.. Masa nunggu hasil lab, aja ampe berjam2,,  tampak ada kejelasan","Waiting Time, Doctor, Waiting Time","Emergency Department, Emergency Department, NULL","Negative, Negative, Negative",a year ago
+Saya sangat kecewa, karna anak ku udah panas tinggi di igd,, tapi bukan y ditangani malah suruh sabar mulu,,  giliran udah diperiksa dapet dokter y asal banget.. Masa nunggu hasil lab, aja ampe berjam2,,  tampak ada kejelasan","Waiting Time, Doctor, Test&Examination","Emergency Department, Emergency Department, Laboratory","Negative, Negative, Negative",a year ago
 "
 Service dokter suster nya ramah banget..fasilitas bagus dan bersih. Tapi ngga ada kantin, jadi susah kl lg nunggu orang sakit rawat inap buat cari makan.","Doctor, Nurse, Cleanliness, Food","NULL, NULL, NULL, NULL","Positive, Positive, Positive, Negative",a year ago
 "
@@ -7452,7 +7452,7 @@ Singkat kata dokter nyuruh dirawat, nunggu dpt kamar dr jam 10 smp jam 2an baru 
 Smp kamar dpt kamar 801, sebenarnya lumayan tp ACnya ngga dingin, padahal udah 19`C,, (siap2 aja kegerahan kyk gw sekarang )
 besoknya sarapan, gw kira bubur sumsum sm rebusan wortel sm minyak + telor
 yg namanya bubur sumsum mestinya ada gulanyakan ternyata ngga ada, mau gw anggep bubur kok alus banget, mana anyep pula, yaudah gw campur aja tu sm rebusan wortel yg anyep jg,, ttp ngga bisa kemakan yaudah gw makan telornya aja 
-Paa gw perhatiin nampannya, eh masih ada minyak 2 bekas lauk sebelumnya, lahh itu dicuci apa kagak gw ngga tau dah, ya namanya jg pasien bpjs, ngga usah berharap lebihlah ","Waiting Time, Waiting Time, Food","Emergency Department, NULL, NULL","Positive, Negative, Negative",2 years ago
+Paa gw perhatiin nampannya, eh masih ada minyak 2 bekas lauk sebelumnya, lahh itu dicuci apa kagak gw ngga tau dah, ya namanya jg pasien bpjs, ngga usah berharap lebihlah ","Waiting Time, Food","Emergency Department, NULL","Neutral, Negative",2 years ago
 "
 Harus lebih baik lagi,,,,!
 Pelayanan staff nya bagus Dan ramah
@@ -7501,7 +7501,7 @@ Antri obat luaaaaaaaar biasa lama. Ibu saya sampe pingsan (untungnya di kursi ro
 kakak saya berobat dgn kanker paru di rsud pasar minggu. alhamdulillah dilayani dengan baik. terimakasih, terutama utk dokter dan staf di bagian patologi anatomi yang dengan sabar melayani pemeriksaan kakak saya yg sdh stadium 4.
 Hanya Allah yang dapat membalas.",Doctor,Pathology Section,Positive,2 years ago
 "
-tempat lumayan bersih, hanya saja mesin atmnya kurang, toilet agak kurang bersih, satu lagi, dokter jaga saat malam hari juga kurang, tempat rawat inap dgn fasilitas gawat darurat jauh sekali menggunakan lift membutuhkan waktu lama jika terjadi sesuatu hal yg membutuhkan pertolongan segera, kalo bisa di setiap lantai dilengkapi fasilitas utk darurat, itu saja sih overall udh ok lah, ohiya parkiran bawah juga cukup pengap, entah ventilasi kurang atau gmn saya jg bingung","Cleanliness, Cleanliness, Doctor, Parking","NULL, Toilet, NULL, NULL","Positive, Negative, Negative, Negative",2 years ago
+tempat lumayan bersih, hanya saja mesin atmnya kurang, toilet agak kurang bersih, satu lagi, dokter jaga saat malam hari juga kurang, tempat rawat inap dgn fasilitas gawat darurat jauh sekali menggunakan lift membutuhkan waktu lama jika terjadi sesuatu hal yg membutuhkan pertolongan segera, kalo bisa di setiap lantai dilengkapi fasilitas utk darurat, itu saja sih overall udh ok lah, ohiya parkiran bawah juga cukup pengap, entah ventilasi kurang atau gmn saya jg bingung","Cleanliness, Doctor, Parking","NULL, NULL, NULL","Neutral, Negative, Negative",2 years ago
 "
 Nice respon",NULL,NULL,Positive,4 months ago
 "
@@ -7642,7 +7642,7 @@ Menerima BPJS dan tempat halte Trans Jakarta.
 
 Gedung RSUD ini masih sangat baru peninggalan Gubernur Pak Basuki Tjahaja Purnama :)",NULL,Pasar Minggu Hospital,Positive,2 years ago
 "
-sebenarnya ini kesekian kalinya gw ke RS ini, ngantri parah, it's ok lah ini BPJS, gw biasa dtg jam setengah 7 sampe sana udah urutan 200an something. dokter parunya juga ga banyak, lama jadinya dipanggilnya, apalagi ngantri obat pernah sampe 2 setengah jam lebih belom dipanggil. gw kzl gw tinggal pulang aja,,, fasilitas ok toilet bersih, ada playground, ada bakery shop, ada box charger, fotocopy juga ada","Waiting Time, Waiting Time, Cleanliness, Food","NULL, Pharmacy, Toilet, NULL","Negative, Negative, Positive, Positive",2 years ago
+sebenarnya ini kesekian kalinya gw ke RS ini, ngantri parah, it's ok lah ini BPJS, gw biasa dtg jam setengah 7 sampe sana udah urutan 200an something. dokter parunya juga ga banyak, lama jadinya dipanggilnya, apalagi ngantri obat pernah sampe 2 setengah jam lebih belom dipanggil. gw kzl gw tinggal pulang aja,,, fasilitas ok toilet bersih, ada playground, ada bakery shop, ada box charger, fotocopy juga ada","Waiting Time, Cleanliness, Food","NULL, Toilet, NULL","Negative, Positive, Positive",2 years ago
 "
 Saya melakukan pemeriksaan rutin di poli kebidanan, dokternya ramah, pelayanan dari staf smpai dokter oke, parkir gratis, tempat bersih, sayangnya antrian periksa sangat panjang","Doctor, Parking, Cleanliness, Waiting Time","Poly Gynecology, NULL, Poly Gynecology, Poly Gynecology","Positive, Positive, Positive, Negative",2 years ago
 "
@@ -7654,7 +7654,7 @@ Rumah Sakit ini dari entrance  smpai didlm ruangan sangat bersih n pelayanan san
 "
 Menggunakan BPJS, rawat inap kedua mertua saya. Pelayanan yang memuaskan baik dari UGD sampai rawat inap. Dokter dan suster responsif dan memberikan kemudahan, sampai kepulangan di layani dengan baik.","Doctor, Nurse, Waiting Time","NULL, NULL, NULL","Positive, Positive, Positive",2 years ago
 "
-Teknologi lebih canggih,  lebih cepet daftar sama bawa resep drpd cara manual. Tenaga adm nya jg sebagian besar ramah, paling satu2 yg jutek. Dokternya jg sebagian besar ramah. Cuma krn pasien yg membludak tetep lama sih. Apalagi di poli penyakit dalam. Sebaiknya layar lcd untuk pemanggilan pasien lebih dimaksimalkan. Semoga semakin baik kedepannya","Waiting Time, Receptionist&Billing, Doctor, Waiting Time","NULL, NULL, NULL, Poly Internal","Positive, Positive, Positive, Negative",2 years ago
+Teknologi lebih canggih,  lebih cepet daftar sama bawa resep drpd cara manual. Tenaga adm nya jg sebagian besar ramah, paling satu2 yg jutek. Dokternya jg sebagian besar ramah. Cuma krn pasien yg membludak tetep lama sih. Apalagi di poli penyakit dalam. Sebaiknya layar lcd untuk pemanggilan pasien lebih dimaksimalkan. Semoga semakin baik kedepannya","Receptionist&Billing, Doctor, Waiting Time","NULL, NULL, Poly Internal","Positive, Positive, Negative",2 years ago
 "
 Oke",NULL,NULL,Positive,6 months ago
 "
@@ -8576,7 +8576,7 @@ Rekam jantung 1 bln kemudian....
 
 @$_""........_@%.......<%}%^.......{=``[}..........{{ 
 
-keburu matiiii","Waiting Time, Receptionist&Billing, Waiting Time, Test&Examination","NULL, NULL, NULL, NULL","Negative, Negative, Negative, Negative",a year ago
+keburu matiiii","Waiting Time, Receptionist&Billing, Test&Examination","NULL, NULL, NULL","Negative, Negative, Negative",a year ago
 "
 RSUP FATMAWATI adalah Rumah sakit milik pemerintah tipe A (terbesar dan terkomplit) kalau segi pelayanan sesuai standar rumah sakit pemerintah dan jangan berharap lebih beda dengan rumah sakit swasta, saya kesini karena rujukan dari rumah sakit daerah. Semoga pelayanannya semakin meningkat.",NULL,Fatmawati Hospital,Positive,a year ago
 "
@@ -8601,7 +8601,7 @@ Pelayanan farmasi rawat jalannya lemot lelet saya kasih resep jam 11, sampe jam 
 "
 Ciri khas rumah sakit pemerintah, lambat pelayanannya. Mending di rumah sakit swasta saja deh, mahal sedikit kualitas layanan prima. Bye bye. Cukup sekian dan terima gaji.","Waiting Time, Cost","NULL, NULL","Negative, Positive",a year ago
 "
-Saya antri di IGD 3 jam belum di panggil juga",Waiting Time ,Emergency Department,Negative,9 months ago
+Saya antri di IGD 3 jam belum di panggil juga",Waiting Time,Emergency Department,Negative,9 months ago
 "
 Rumah sakit ini memberikan pelayanan kedokteran spesialis dan subspesialis serta ditetapkan sebagai rujukan tertinggi oleh pemerintah.
 
@@ -8609,7 +8609,7 @@ Jumlah dokter yang teredia dirumah sakit ini termasuk besar dan ruangan tempat t
 "
 RSUD ini fasilitasnya cukup lengkap untuk semua persyaratan rumah sakit daerah Jaksel yg melayani masyarakat sekitarnya",Test&Examination,NULL,Positive,a year ago
 "
-Pelayananye parah. Mentang2 pake BPJS, kebanyakan di cuekin. Sekuritiny gayany kebanyakan pd ky jagoan. Songong. Kerja banyak yg ga sesuai sama SOP. Ngasih informasi ke pasien aj ga singkron antara perawat 1 sama yg laen. Farmasi kerjany lelet. 20 orang lebih nungguin obat doang sampe berjam2. Pas di tanya ternyata obatny udh di titipin trus yg nitipin juga tolol ga ad tanggung jawabny tau2 kabur tanpa kasih kabar. Question. Yg salah ini kebanyakan pelayanan di rumah sakit yg bayar pake BPJS emang di perlakukan selalu begitu atau emang udh tabiat para pekerja di rumah sakit begitu semua sih? Cape kali y kerja dirumah sakit? Resign goblok. Orang hidup semua cape. Orang mati aj cape. Jarang banget liat perawat atau dokter senyum sama pasien atau keluarga pasien. Padahal kerja di bidang pelayanan. Kalo pelayanany begitu terus sih, tinggal nunggu bangkrut doang aj udh. Setiap kali ke rumah sakit. Padahal di awal udh bae2 nanya pake senyum. Dibalesny ketus. Nanya sopan2, jawabny ga enakin. Kalo ga pake gebrak2, ga bakal di layanin. Mauny apaan sih?","Waiting Time, Nurse, Waiting Time, Doctor","NULL, NULL, Pharmacy, NULL","Negative, Negative, Negative, Negative",2 years ago
+Pelayananye parah. Mentang2 pake BPJS, kebanyakan di cuekin. Sekuritiny gayany kebanyakan pd ky jagoan. Songong. Kerja banyak yg ga sesuai sama SOP. Ngasih informasi ke pasien aj ga singkron antara perawat 1 sama yg laen. Farmasi kerjany lelet. 20 orang lebih nungguin obat doang sampe berjam2. Pas di tanya ternyata obatny udh di titipin trus yg nitipin juga tolol ga ad tanggung jawabny tau2 kabur tanpa kasih kabar. Question. Yg salah ini kebanyakan pelayanan di rumah sakit yg bayar pake BPJS emang di perlakukan selalu begitu atau emang udh tabiat para pekerja di rumah sakit begitu semua sih? Cape kali y kerja dirumah sakit? Resign goblok. Orang hidup semua cape. Orang mati aj cape. Jarang banget liat perawat atau dokter senyum sama pasien atau keluarga pasien. Padahal kerja di bidang pelayanan. Kalo pelayanany begitu terus sih, tinggal nunggu bangkrut doang aj udh. Setiap kali ke rumah sakit. Padahal di awal udh bae2 nanya pake senyum. Dibalesny ketus. Nanya sopan2, jawabny ga enakin. Kalo ga pake gebrak2, ga bakal di layanin. Mauny apaan sih?","Waiting Time, Nurse, Doctor","NULL, NULL, NULL","Negative, Negative, Negative",2 years ago
 "
 Tidak memuaskan pelayananannya data saya sama istri daftar bareng ko selisih urutannya jauh pe'a juga pelayanannya di pendaftaran poliklinik penyakit dalam ",Receptionist&Billing,Poly Internal,Negative,a year ago
 "
@@ -8807,7 +8807,7 @@ susah bgt klo d tlp",Receptionist&Billing,NULL,Negative,a year ago
 "
 Untuk pelayanan bagus, staff rumah sakit juga membantu.",NULL,NULL,Positive,a year ago
 "
-Lambat, obat2an ga lengkap, trus tdk trlalu bersih, kcuali gruya husada","Waiting Time, Cleanliness, Cleanliness","NULL, NULL, Griya Husada","Negative, Negative, Positive",a year ago
+Lambat, obat2an ga lengkap, trus tdk trlalu bersih, kcuali gruya husada","Waiting Time, Cleanliness","NULL, NULL","Negative, Negative",a year ago
 "
 pelajaran berharga sepanjang masa dan tidak akan dilupakan..",NULL,NULL,Neutral,a year ago
 "
@@ -8917,7 +8917,7 @@ Farmasi masih kurang frofisional",NULL,Pharmacy,Negative,a year ago
 "
 Yuk donor darah ke RS Fatmawati, buat bantu saudara kita yang membutuhkan",NULL,Fatmawati Hospital,Positive,2 years ago
 "
-Rumah sakit dengan alat medis lengkap setelah rumahsakit cipto","Test&Examination, Test&Examination","NULL, Cipto Hospital","Positive, Positive",2 years ago
+Rumah sakit dengan alat medis lengkap setelah rumahsakit cipto",Test&Examination,Cipto Hospital,Positive,2 years ago
 "
 Nengok bagus's mom. Parkirnya -.-",Parking,NULL,Negative,2 years ago
 "
@@ -9527,7 +9527,7 @@ Antrian loket pendaftaran. Kalo kesini mau dpt nomer 1 harus dtg subuh kayaknyaa
 "
 Lebih di tingkatkan lagi pelayanannya..",NULL,NULL,Negative,2 years ago
 "
-Saya bawa ibu saya berobat kesini krn saya kira ini RS terbaik utk paru... tapi saya sangat kecewa. Dokter Elisna Syafrudin arogan, sering tidak mau menjawab pertanyaan pasien & keluarga (kami sering ditertawakan), lupa mengecek hasil tes/scan yg menyebabkan perawatan yg tidak jelas, dokter2 tidak ada satupun yang memberikan no hp/wa walaupun ibu saya sdh  rawat jalan maupun inap di ruang VIP, ketika perlu ICU pun ICU tidak tersedia/penuh!! Di ruang rawat inap VIP (Griya Puspa) kadang saat emergency tidak ada dokter jaga yg available krn di satu gedung itu (ada bbrp lantai) dokter jaganya hanya satu orang!!! Jadi kalau ada pasien yg mengalami emergency/butuh penanganan segera bisa langsung meninggal karena tidak ada dokter yang bisa datang!!! Luar biasa parahnya RS ini.... Padahal ini ruang VIP dan tarifnya mahal tapi pelayanannya tidak sebanding dengan biayanya. Toilet di gedung VIP (Griya Puspa) sering kehabisan tisu dan sabun. Di gedung umum/non-VIP lebih parah lagi... toiletnya sangat jorok, jangan harap ada tisu/sabun...padahal RS ini penuh pasien penyakit paru yg rentan menular... tapi tisu/sabun saja tidak ada?? Jangan2 banyak orang yang tidak sakit jadi sakit karna tertular di kondisi kebersihan yang buruk spt itu. Katanya RS rujukan tapi utk kebersihan dan pelayanan bahkan lebih buruk dari RS-RS lain yg bukan rujukan.  Suster2nya ada yg baik tapi ada juga yang judes sekali. Untuk dokter lainnya ada yg baik, ramah, mau menjelaskan spt Dr Retno, Dr Susan, Dr Jamal. Kalau Dr Elisna kami sangat kecewa karena sikapnya yang arogan dan kurang cermat dalam melihat data riwayat & hasil tes pasien","Doctor, Test&Examination, Doctor, Cleanliness, Nurse","NULL, NULL, ICU, Toilet, NULL","Neutral, Negative, Negative, Negative, Neutral",a year ago
+Saya bawa ibu saya berobat kesini krn saya kira ini RS terbaik utk paru... tapi saya sangat kecewa. Dokter Elisna Syafrudin arogan, sering tidak mau menjawab pertanyaan pasien & keluarga (kami sering ditertawakan), lupa mengecek hasil tes/scan yg menyebabkan perawatan yg tidak jelas, dokter2 tidak ada satupun yang memberikan no hp/wa walaupun ibu saya sdh  rawat jalan maupun inap di ruang VIP, ketika perlu ICU pun ICU tidak tersedia/penuh!! Di ruang rawat inap VIP (Griya Puspa) kadang saat emergency tidak ada dokter jaga yg available krn di satu gedung itu (ada bbrp lantai) dokter jaganya hanya satu orang!!! Jadi kalau ada pasien yg mengalami emergency/butuh penanganan segera bisa langsung meninggal karena tidak ada dokter yang bisa datang!!! Luar biasa parahnya RS ini.... Padahal ini ruang VIP dan tarifnya mahal tapi pelayanannya tidak sebanding dengan biayanya. Toilet di gedung VIP (Griya Puspa) sering kehabisan tisu dan sabun. Di gedung umum/non-VIP lebih parah lagi... toiletnya sangat jorok, jangan harap ada tisu/sabun...padahal RS ini penuh pasien penyakit paru yg rentan menular... tapi tisu/sabun saja tidak ada?? Jangan2 banyak orang yang tidak sakit jadi sakit karna tertular di kondisi kebersihan yang buruk spt itu. Katanya RS rujukan tapi utk kebersihan dan pelayanan bahkan lebih buruk dari RS-RS lain yg bukan rujukan.  Suster2nya ada yg baik tapi ada juga yang judes sekali. Untuk dokter lainnya ada yg baik, ramah, mau menjelaskan spt Dr Retno, Dr Susan, Dr Jamal. Kalau Dr Elisna kami sangat kecewa karena sikapnya yang arogan dan kurang cermat dalam melihat data riwayat & hasil tes pasien","Doctor, Test&Examination, Cleanliness, Nurse","NULL, NULL, Toilet, NULL","Negative, Negative, Negative, Neutral",a year ago
 "
 Kami selalu berusaha meningkatkan pelayanan terhadap pasien...Mohon maaf bila ada kekurangan dlm pelayanan kami",NULL,NULL,Neutral,a year ago
 "
@@ -9770,7 +9770,7 @@ Pengalaman buruk saat suda sampe d igd harusnya di check malah cuma d tanya2in t
 "
 pelayanan dokter dan suster IGD sangat sangat ramah dan baik . Akan tetapi security IGD nya sangat buruk pelayanannya tidak ramah","Doctor, Nurse","Emergency Department, Emergency Department","Positive, Positive",2 years ago
 "
-'Kalau di Griya Puspanya bagus....tapi kalau di RSUP Persahabatannya ribet....penjaga yang cewek yang macam satpam pada judes....gak kayak yang di Griya Puspa....ramah....","NULL, NULL","Griya Puspa, Persahabatan Hospital","Positive, Negative",2 years ago
+'Kalau di Griya Puspanya bagus....tapi kalau di RSUP Persahabatannya ribet....penjaga yang cewek yang macam satpam pada judes....gak kayak yang di Griya Puspa....ramah....",NULL,Persahabatan Hospital,Positive,2 years ago
 "
 Penanganany agak lama udh mw 3 mggu, msh lum membaik jg, sustery jg kurang efektif dlm melayani n doktery kurang profesional dlm menindakin... Tolong diatur lg kinerjanya krna ini urusany nyawa","Waiting Time, Nurse, Doctor","NULL, NULL, NULL","Negative, Negative, Negative",3 years ago
 "
@@ -9898,7 +9898,7 @@ Lambat menangani",Waiting Time,NULL,Negative,a year ago
 "
 penanganannya terhadap pasien kurang sigap dan kurang baik.",Waiting Time,NULL,Negative,a year ago
 "
-Pelayanan bagur dr pada rs islam pondok kopi","NULL, NULL","NULL, Islam Pondok Kopi Hospital","Positive, Negative",2 years ago
+Pelayanan bagur dr pada rs islam pondok kopi",NULL,Islam Pondok Kopi Hospital,Negative,2 years ago
 "
 Masjid adem rsnya banyak pohon",NULL,Mosque,Positive,a year ago
 "
@@ -10303,7 +10303,7 @@ Telponnya ampuuun susah bgt. Klo sudah nyambung di lempar2 sana sini. Mau buat j
 Penanganan relatif lebih cepat dibanding rumahsakit lain. Kebersihan terjaga. Spesialis dan subspesialis, serta alat"" yg menunjang utk diagnosa saat itu, tergolong lengkap untuk rs dgn ukuran tdk terlalu luas..
 Banyak kegiatan promosi kesehatan dgn gambar dan kata"" yg lebih menarik.
 Karena ruangan terbatas, kasihan ada pasien UGD sampai antri..  Dari segi makanan utk pasien juga sdh sesuai dgn sakitnya.. Kompak bgt staff..
-Mungkin utk perawat memang nggak selalu bisa senyum, krn memang pekerjaan perawat berat, apalagi yg shift malam atau bagian di icu/rpk..","Waiting Time, Cleanliness, Doctor, Test&Examination, Waiting Time, Food, Nurse","NULL, NULL, NULL, NULL, Emergency Unit, NULL, NULL","Positive, Positive, Positive, Positive, Negative, Positive, Negative",2 years ago
+Mungkin utk perawat memang nggak selalu bisa senyum, krn memang pekerjaan perawat berat, apalagi yg shift malam atau bagian di icu/rpk..","Waiting Time, Cleanliness, Doctor, Test&Examination, Food, Nurse","NULL, NULL, NULL, NULL, NULL, NULL","Neutral, Positive, Positive, Positive, Positive, Negative",2 years ago
 "
 Bagus kok rumah sakitnya. Cepat tanggap juga.",Waiting Time,NULL,Positive,5 months ago
 "
@@ -10313,7 +10313,7 @@ tidak melayani sepenuh hati, saudara saya menunggu lama posisi sudah gawat namun
 "
 Pelayanan an lebih di tingkatkan lagi",NULL,NULL,Negative,5 months ago
 "
-RS Terparah dan mata duitan di Surabaya. Pertama, sendi tangan saya pernah lepas alias mengsle, itu saja Siloam langsung main dimasukin ruang operasi. Pakai di bius segala. Saya di RS China cuma habis 750 RMB alias Rp.1.500.000, 30 menit di putar putar, tidak sakit, tidak masuk ruang operasi, juga sudah balik asal dan normal. Di siloam harus dimasukin ruang operasi 1,5 jam, dan tinggal di RS berhari-hari. Total habis hampir 30 jutaan dgn hasil yang sama dgn 1,5 juta di China. Kedua, tetangga saya, kena Demam Berdarah dilarikan ke RS Siloam, lalu membaik dan pulang, 3 minggu setelahnya fisiknya drop, dan dilarikan ke RS Siloam, cek darah dan kadar Hb (Hemoglobin) sisa 5, kata dokternya kena virus, kaget, gitu doank jawabnya, virus apa kek orang tua almarhum juga tidak diberi tahu perincian penjelasan. Tanggal 25 Maret subuh sang korban meninggal dunia. Ini apa sebabnya sampai saat ini tidak jelas? Apa perlu fulus buat diperjelaskan? Ketiga, pada januari 2019 saya ke Siloam karena otot saya kejang dan ada movement disorder. Ehhh, dokter dan susternya malah ketawa ketiwi, pikir saya kebangetan bercandain pasien lagi susah hati dan sakit. Memang mereka tidak tahu apa yg terjadi dengan otot saya. Tapi ngga perlu pakai sebut saya ""ketagihan senam stretching"" segala. Akhirnya saya memang disantet orang, dan mengalami gangguan otot non medis. Namun saya kecewa beratttt, RS Siloam ini payah sekali. Sama sekali tidak profesional. Harga mahal. Tapi tidak berkualitas. Lihat saja servis suster di IGD jutek jutek terhadap pasien. Padahal pasien itu bayar lho. Pasien BPJS saja juga tidak usah di nyengoli segala. Apalagi kita yang bayar fulus. Parahhhh. Jujur saya kecewa berat, bukan sekali, namun berkali kali. Saya skrg sampai trauma dgn yang namanya Rumah Sakit. Orang umum berasa dipermainkan nyawa dan uang keringatnya. Dokter itu bukan sarana cetak uang. Dokter itu seharusnya suatu pekerjaan mulia dan berbuat kebaikan menyelamatkan hidup orang banyak. Bukan mencekik orang dan memeras orang. Bukan sarana mencetak uang. Motif utama mencetak uang adalah sah di bisnis, TIDAK SAH di dokter. Karena dokter seharusnya mulia dan menolong semua orang kekurangan yang susah dan sakit. Profesi Dokter adalah kerja bakti sosial. Pengusaha barulah adalah kerja cetak keuntungan.","Test&Examination, Cost, Cost, Doctor, Nurse","Siloam Hospital, China Hospital, Siloam Hospital, Siloam Hospital, Siloam Hospital","Negative, Positive, Negative, Negative, Negative",a year ago
+RS Terparah dan mata duitan di Surabaya. Pertama, sendi tangan saya pernah lepas alias mengsle, itu saja Siloam langsung main dimasukin ruang operasi. Pakai di bius segala. Saya di RS China cuma habis 750 RMB alias Rp.1.500.000, 30 menit di putar putar, tidak sakit, tidak masuk ruang operasi, juga sudah balik asal dan normal. Di siloam harus dimasukin ruang operasi 1,5 jam, dan tinggal di RS berhari-hari. Total habis hampir 30 jutaan dgn hasil yang sama dgn 1,5 juta di China. Kedua, tetangga saya, kena Demam Berdarah dilarikan ke RS Siloam, lalu membaik dan pulang, 3 minggu setelahnya fisiknya drop, dan dilarikan ke RS Siloam, cek darah dan kadar Hb (Hemoglobin) sisa 5, kata dokternya kena virus, kaget, gitu doank jawabnya, virus apa kek orang tua almarhum juga tidak diberi tahu perincian penjelasan. Tanggal 25 Maret subuh sang korban meninggal dunia. Ini apa sebabnya sampai saat ini tidak jelas? Apa perlu fulus buat diperjelaskan? Ketiga, pada januari 2019 saya ke Siloam karena otot saya kejang dan ada movement disorder. Ehhh, dokter dan susternya malah ketawa ketiwi, pikir saya kebangetan bercandain pasien lagi susah hati dan sakit. Memang mereka tidak tahu apa yg terjadi dengan otot saya. Tapi ngga perlu pakai sebut saya ""ketagihan senam stretching"" segala. Akhirnya saya memang disantet orang, dan mengalami gangguan otot non medis. Namun saya kecewa beratttt, RS Siloam ini payah sekali. Sama sekali tidak profesional. Harga mahal. Tapi tidak berkualitas. Lihat saja servis suster di IGD jutek jutek terhadap pasien. Padahal pasien itu bayar lho. Pasien BPJS saja juga tidak usah di nyengoli segala. Apalagi kita yang bayar fulus. Parahhhh. Jujur saya kecewa berat, bukan sekali, namun berkali kali. Saya skrg sampai trauma dgn yang namanya Rumah Sakit. Orang umum berasa dipermainkan nyawa dan uang keringatnya. Dokter itu bukan sarana cetak uang. Dokter itu seharusnya suatu pekerjaan mulia dan berbuat kebaikan menyelamatkan hidup orang banyak. Bukan mencekik orang dan memeras orang. Bukan sarana mencetak uang. Motif utama mencetak uang adalah sah di bisnis, TIDAK SAH di dokter. Karena dokter seharusnya mulia dan menolong semua orang kekurangan yang susah dan sakit. Profesi Dokter adalah kerja bakti sosial. Pengusaha barulah adalah kerja cetak keuntungan.","Test&Examination, Cost, Doctor, Nurse","Siloam Hospital, Siloam Hospital, Siloam Hospital, Siloam Hospital","Negative, Negative, Negative, Negative",a year ago
 "
 BABI INI RS NYA, PILIH RS YANG LAIN AJA GUYS!!",NULL,NULL,Negative,8 months ago
 "
@@ -10357,7 +10357,7 @@ Pengalaman baik:
 * bberapa dokter spesialisnya saya akui tergolong pintar dan berdedikasi saat penanganan pasien
 *dulu istri pernah mengalami gangguan saluran pencernaan, dibawa ke dokter dan bberapa rumah sakit masih belum sembuh...dan sewaktu ditangani oleh dokter disini cuman diberi resep 1 macam obat, langsung mujarab..","Parking, Waiting Time, Doctor, Cost","NULL, NULL, NULL, NULL","Negative, Negative, Neutral, Negative",a year ago
 "
-Area parkir tidak ada. Harus parkir di grand city mall mall trs dijemput pakai shuttle bus. Dokternya tiba2 membatalkan jadwal praktek, harus nunggu lama untuk dokter yang shift siang. Dokternya sih OK, tp administrasinya lama. Nunggu obat 2 jam. Rekor","Parking, Doctor, Waiting Time, Receptionist&Billing, Waiting Time","NULL, NULL, NULL, NULL, Pharmacy","Negative, Neutral, Negative, Negative, Negative",a year ago
+Area parkir tidak ada. Harus parkir di grand city mall mall trs dijemput pakai shuttle bus. Dokternya tiba2 membatalkan jadwal praktek, harus nunggu lama untuk dokter yang shift siang. Dokternya sih OK, tp administrasinya lama. Nunggu obat 2 jam. Rekor","Parking, Doctor, Waiting Time, Receptionist&Billing","NULL, NULL, NULL, NULL","Negative, Neutral, Negative, Negative",a year ago
 "
 Layanannya cukup baik. Tapi beberapa aturannya untuk poli aneh dan membuat pasien sibuk sendiri bolak balik rumah sakit",NULL,NULL,Neutral,3 years ago
 "
